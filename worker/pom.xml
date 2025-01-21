@@ -42,6 +42,11 @@
     </dependency>
     <dependency>
       <groupId>io.micronaut</groupId>
+      <artifactId>micronaut-retry</artifactId>
+      <version>${micronaut.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>io.micronaut</groupId>
       <artifactId>micronaut-jackson-databind</artifactId>
     </dependency>
     <dependency>
